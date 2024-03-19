@@ -1,0 +1,17 @@
+{
+  "type": "service_account",
+  "project_id": "project_id",
+  "private_key_id": "private_key_id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nENTER KEY\n-----END PRIVATE KEY-----\n",
+  "client_email": "client_email",
+  "client_id": "client_id",
+  "auth_uri": "auth_uri",
+  "token_uri": "httoken_uri",
+  "auth_provider_x509_cert_url": "auth_provider_x509_cert_url",
+  "client_x509_cert_url": "client_x509_cert_url",
+  "universe_domain": "googleapis.com",
+  "OPENAI_API_KEY":"OPENAI_API_KEY",
+  "PICOVOICE_API_KEY":"PICOVOICE_API_KEY",
+  "YOUTUBE_DATA_API_KEY":"YOUTUBE_DATA_API_KEY",
+  "GOOGLE_SEARCH_API_KEY":"GOOGLE_SEARCH_API_KEY"
+}
